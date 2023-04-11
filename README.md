@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on creating beautiful data visualizations
-- 🌱 I’m learning ReactJS
+- 🌱 I’m working on upskilling: graphQL, tensorFlow
 - 😄 Pronouns: she/her
